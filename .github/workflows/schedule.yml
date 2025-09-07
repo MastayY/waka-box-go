@@ -20,7 +20,7 @@ jobs:
       GIST_ID: 4d7ebf74725a2a3d38d1f29914be0d13
       GIST_BARSTYLE: SOLIDLT
       GIST_BARLENGTH: -1
-      GIST_TIMESTYLE: SHORT
+      GIST_TIMESTYLE: LONG
 
     steps:
       - name: Set up Go 1.x
